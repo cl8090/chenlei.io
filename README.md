@@ -127,7 +127,7 @@ You can specify a default thumbnail for posts on the index page (Home page). Thi
 
 ```
 # Default post cover index page
-default_cover_index: "http://placehold.it/450x450"
+default_cover_index: "https://github.com/cl8090/tu-pian/blob/master/450.png"
 ```
 
 ### Default post page cover image
