@@ -1,6 +1,6 @@
-# Phantom Blog Hexo
+# 摄影师十三
 
-![](http://www.codeblocq.com/img/hexo-theme-thumbnail/Phantom.png)
+![](https://github.com/cl8090/tu-pian/blob/master/13logo.png)
 
 Hexo implementation of the free [HTML5Up Phantom Template](http://html5up.net/phantom)
 
