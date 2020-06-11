@@ -82,7 +82,7 @@ The blog's logo (next to blog title) is configured in the theme's `_config.yml`.
 https://github.com/cl8090/tu-pian/blob/master/13logo.png
 ```
 # Logo Image Source
-logo_src: /images/logo.svg
+https://github.com/cl8090/tu-pian/blob/master/13logo.png
 ```
 111111111
 ###博客的主要字幕
