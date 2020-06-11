@@ -1,6 +1,6 @@
 # 摄影师十三
 
-![](https://github.com/cl8090/tu-pian/blob/master/13logo.png)
+![](https://github.com/cl8090/tu-pian/blob/master/hxian.png)
 
 Hexo implementation of the free [HTML5Up Phantom Template](http://html5up.net/phantom)
 
