@@ -84,8 +84,8 @@ The blog's logo (next to blog title) is configured in the theme's `_config.yml`.
 # Logo Image Source
 logo_src: /images/logo.svg
 ```
-
-### Blog's Main Subtitle
+111111111
+###博客的主要字幕
 
 The blog's main subtitle (text just below the logo) is configured in the theme's `_config.yml`.
 
