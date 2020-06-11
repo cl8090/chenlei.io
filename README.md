@@ -79,7 +79,7 @@ The object key is the label and the value is the path.
 ### Blog's Logo Image Source
 
 The blog's logo (next to blog title) is configured in the theme's `_config.yml`.
-https://github.com/cl8090/tu-pian/blob/master/9edc77bdly1g6dct8msg2j242u645b2i.jpg
+
 ```
 # Logo Image Source
 logo_src: /images/logo.svg
